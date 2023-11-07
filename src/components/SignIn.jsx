@@ -71,7 +71,7 @@ export default function SignIn() {
             <LockOutlinedIcon />
           </Avatar>
           <Typography component="h1" variant="h5">
-            Sign In as Librarian
+          প্রবেশ করুন
           </Typography>
           <Box
             component="form"
@@ -84,7 +84,7 @@ export default function SignIn() {
               required
               fullWidth
               id="email"
-              label="Email Address"
+              label="আপনার মেইল"
               name="email"
               autoComplete="email"
               autoFocus

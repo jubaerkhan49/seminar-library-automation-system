@@ -103,7 +103,7 @@ const categories = [
       {
         id: "Sign Out",
         icon: <SignpostOutlined />,
-        itemLink: "/signin",
+        itemLink: "/",
         active: false,
       },
     ],
